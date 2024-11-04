@@ -54,7 +54,7 @@ export default function Home () {
           </div>
 
           <a
-            href='https://github.com/zarfala/el-accum-de-cafe'
+            href='https://github.com/zarfadev/El-Accum-De-Cafe'
             target='_blank'
             rel='noopener noreferrer'
             className='mt-6'
